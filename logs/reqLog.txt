@@ -1,0 +1,8 @@
+20260317	15:16:57	65e5ce2b-87f9-4ce8-8386-caa9696cf19b	/	GET
+20260317	15:16:57	8e197b80-fab4-40c3-b2c6-9a79e5569137	/css/style.css	GET
+20260317	15:16:57	31761c68-3601-4dfa-a5c9-5c50160299d8	/favicon.ico	GET
+20260317	15:19:18	4eb6359b-8846-4025-a135-6346f1a4fcfa	/css/style.css	GET
+20260317	15:19:18	74152734-e5ee-444d-9efe-d8f140a278f7	/.well-known/appspecific/com.chrome.devtools.json	GET
+20260317	15:19:25	f60e71e6-a182-4705-ad6b-fe5c72968a8c	/	GET
+20260317	15:19:25	8b2550bc-57a0-49be-aae8-1ca1d2691a47	/css/style.css	GET
+20260317	15:19:25	0b05e899-e99d-4ecf-91b8-2edbb3733aba	/.well-known/appspecific/com.chrome.devtools.json	GET
